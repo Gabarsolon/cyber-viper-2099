@@ -5,6 +5,10 @@ An ultra-sleek, neon-drenched HTML5 arcade Snake game built entirely in a single
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Zero Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen.svg)
 ![Pure HTML5](https://img.shields.io/badge/stack-HTML5%20%7C%20CSS3%20%7C%20JS-ff007f.svg)
+[![Play Live](https://img.shields.io/badge/🎮%20Play%20Online-GitHub%20Pages-00f2fe.svg)](https://gabarsolon.github.io/cyber-viper-2099/)
+
+> **🕹️ Play the live game directly in your browser:** [https://gabarsolon.github.io/cyber-viper-2099/](https://gabarsolon.github.io/cyber-viper-2099/)
+
 
 ---
 
